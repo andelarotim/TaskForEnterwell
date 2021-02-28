@@ -1,0 +1,22 @@
+/*
+Theme Name: AdminTableTheme
+Author: Anđela Rotim
+*/
+
+.table_style {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.table_style thead th {
+    text-align: center;
+    padding: 8px;
+}
+
+.table_style tbody td {
+    
+    padding: 8px;
+    background-color: #DDE3DF;
+    color: black;
+    font-family: "Arial";
+}
