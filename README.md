@@ -17,6 +17,6 @@ ADMIN CREDENTIALS:
 * password: admin
 
 # Troubleshooting
-* If you name your folder otherwise, you should check out the table "wp_options". Current site url and home is http://localhost/Enterwell ,
-so you should change that to a different localhost (depending on what you named your folder in htdocs).
 * If you name your database otherwise, you should check out the file "wp-config.php" and change the settings for MySQL.
+* If you name your folder otherwise, you should check out the table "wp_options". Current site url and home is http://localhost/Enterwell ,
+so you might need to change that to a different localhost (depending on what you named your folder in htdocs).
